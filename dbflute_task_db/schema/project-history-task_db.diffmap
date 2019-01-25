@@ -1,0 +1,20 @@
+map:{
+    ; 2019/01/23 11:03:07 = map:{
+        ; diffDate = 2019/01/23 11:03:07
+        ; tableCount = map:{
+            ; next = 2
+            ; previous = 0
+        }
+        ; diffAuthor = kotaro.nishiyama
+        ; tableDiff = map:{
+            ; customer = map:{
+                ; tableName = customer
+                ; diffType = ADD
+            }
+            ; user = map:{
+                ; tableName = user
+                ; diffType = ADD
+            }
+        }
+    }
+}
